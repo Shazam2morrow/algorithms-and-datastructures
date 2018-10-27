@@ -1,5 +1,4 @@
 # algorithms-and-datastructures
-Algorithms and Data structures in Java
 Hello guys and welcome to my small GitHub project dedicated to algorithms and data structures. 
 First of all i want to say that i'm not a scientist or some kind of reasearcher. 
 I'm just a student who wants to understand the basics of computer science. 
